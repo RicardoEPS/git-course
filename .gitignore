@@ -1,4 +1,8 @@
 # Listado de Archivos y Carpetas Ignoradas
+
+#Carpetas
 test
 Prueba2
+
+#Archivos
 text.txt
